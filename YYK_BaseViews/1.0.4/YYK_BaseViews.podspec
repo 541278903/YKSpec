@@ -19,16 +19,22 @@ Pod::Spec.new do |spec|
   spec.dependency "SDWebImage"
   #spec.source_files = 'YYKPodLib_Sec/Classes/**/**/*.{h,m,xib}'
   spec.default_subspec = 'BaseClass'
+  
+  
   spec.subspec 'BaseClass' do |ss|
     ss.source_files = 'YYKPodLib_Sec/Classes/BaseClass/**/*.{h,m,xib}'
     
-    #ss.resource_bundles = {
-    #  'DoraemonKit' => 'iOS/DoraemonKit/Resource/**/*'
-    #}
-    #ss.dependency 'GCDWebServer'
-    #ss.dependency 'GCDWebServer/WebUploader'
-    #ss.dependency 'GCDWebServer/WebDAV'
-    #ss.dependency 'FMDB'
+  end
+  
+  spec.subspec 'SdView' do |sdv|
+  
+    sdv.source_files = 'YYKPodLib_Sec/Classes/Sdview/**/*.{h,m,xib}'
+    sdv.framework = 'UIKit','Foundation'
+    sdv.dependency "ReactiveObjC"
+    sdv.dependency "MJExtension"
+    sdv.dependency "Masonry"
+    sdv.dependency "MJRefresh"
+    sdv.dependency 'YYK_BaseViews/BaseClass'
   end
   
 end
