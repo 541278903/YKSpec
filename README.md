@@ -1,21 +1,18 @@
 # YKSpec
 
-#### 介绍
+## 添加仓库
 
+在Podfile顶部添加
 
-#### 软件架构
+```
+source 'https://gitee.com/Edwrard/YKSpec.git'
+source 'https://github.com/CocoaPods/Specs.git'
+```
 
+## 主要仓库
 
-#### 安装教程
+- 'YYK_BaseViews'   主要对UI的封装，包括UIkit的新增分类，以及自主构建的控件
+- 'YK_BaseTools'    主要为工具类的封装，如AFNetWorking，FMDB，RABBITMQ，BASE64等，另外封装录音机，播放器，长链接等实用工具
+- 'YK_BaseMediator' 主要为组件库，封装一些组件页面提供使用。
 
-
-#### 使用说明
-
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
