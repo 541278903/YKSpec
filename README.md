@@ -1,6 +1,12 @@
 # YKSpec
 
 ## 添加本源
+在本地cocopods库中添加本源
+
+```
+pod repo add YKSpec https://gitee.com/Edwrard/YKSpec.git
+```
+
 
 在Podfile顶部添加
 
