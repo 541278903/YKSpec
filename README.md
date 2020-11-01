@@ -31,5 +31,9 @@ pod 'YK_BaseTools'
 ```
 pod 'YK_BaseMediator'
 ```
+- 'YKUserManager' 主要为登录获取用户信息组件。
+```
+pod 'YKUserManager'
+```
 
 
