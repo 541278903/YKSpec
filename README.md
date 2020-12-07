@@ -39,5 +39,9 @@ pod 'YK_BaseMediator'
 ```
 pod 'YKUserManager'
 ```
-
+- 'YKIM' 主要为基于starRAC的封装pod库
+- 源地址:https://gitee.com/Edwrard/YKIM.git
+```
+pod 'YKIM'
+```
 
