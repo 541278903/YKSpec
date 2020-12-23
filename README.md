@@ -44,4 +44,9 @@ pod 'YKUserManager'
 ```
 pod 'YKIM'
 ```
+- 'IFYunSDK' 主要为基于starRAC的封装pod库
+- 源地址:https://gitee.com/Edwrard/IFYunSDK.git
+```
+pod 'IFYunSDK'
+```
 
