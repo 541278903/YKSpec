@@ -39,5 +39,9 @@ pod 'YK_BaseMediator'
 ```
 pod 'YKUserManager'
 ```
-
+- 'YK_DebugManager' 主要为模仿哆啦A梦编写的debug工具类。
+- 源地址:https://gitee.com/Edwrard/YK_DebugManager.git
+```
+pod 'YK_DebugManager'
+```
 
