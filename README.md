@@ -17,7 +17,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 ## 主要仓库
 
-- 'YYK_BaseViews'   主要对UI的封装，包括UIkit的新增分类，以及自主构建的控件
+- 'YYK_BaseViews'   主要对UI的封装，一些自主构建的控件
 - 源地址:https://gitee.com/Edwrard/YYK_BaseViews.git
 
 ```
@@ -43,5 +43,10 @@ pod 'YKUserManager'
 - 源地址:https://gitee.com/Edwrard/YK_DebugManager.git
 ```
 pod 'YK_DebugManager'
+```
+- 'YK_ExectionModel' 主要为拓展类库，提供各种便捷的分类方法，给业务开发快速提供支持。
+- 源地址:https://gitee.com/Edwrard/YK_ExectionModel.git
+```
+pod 'YK_ExectionModel'
 ```
 
