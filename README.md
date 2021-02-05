@@ -49,4 +49,9 @@ pod 'YK_DebugManager'
 ```
 pod 'YK_ExectionModel'
 ```
+- 'YK_RTC' 主要为即构拓展库。
+- 源地址:https://gitee.com/Edwrard/YK_RTC.git
+```
+pod 'YK_RTC'
+```
 
