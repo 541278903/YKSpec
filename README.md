@@ -54,4 +54,9 @@ pod 'YK_ExectionModel'
 ```
 pod 'YK_RTC'
 ```
+- 'YK_IM' 主要为IM登录验证模块。
+- 源地址:https://gitee.com/Edwrard/YK_IM.git
+```
+pod 'YK_IM'
+```
 
