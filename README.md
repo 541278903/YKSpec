@@ -64,4 +64,11 @@ pod 'YK_IM'
 ```
 pod 'YK_TableRefresh'
 ```
+- 'YK_BigData' 主要为大数据埋点。
+- 源地址:https://gitee.com/Edwrard/YK_BigData.git
+```
+pod 'YK_BigData'
+```
+
+
 
