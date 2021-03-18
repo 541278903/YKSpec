@@ -18,7 +18,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 ## 主要仓库
 
 - 'YYK_BaseViews'   主要对UI的封装，一些自主构建的控件
-- 源地址:https://gitee.com/Edwrard/YYK_BaseViews.git
+- 源地址:https://gitee.com/Edwrard/YK_Views.git
 
 ```
 pod 'YYK_BaseViews'
