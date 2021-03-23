@@ -64,10 +64,16 @@ pod 'YK_IM'
 ```
 pod 'YK_TableRefresh'
 ```
-- 'YK_BigData' 主要为大数据埋点。
+- 'YK_BigData' 主要为大数据工具类。
 - 源地址:https://gitee.com/Edwrard/YK_BigData.git
 ```
 pod 'YK_BigData'
+```
+
+- 'YK_PathDig' 主要为大数据埋点埋点。
+- 源地址:https://gitee.com/Edwrard/YK_PathDig.git
+```
+pod 'YK_PathDig'
 ```
 
 
