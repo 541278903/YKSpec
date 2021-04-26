@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.resource_bundles ={
       'YK_TableRefresh' => 'YK_TableRefresh/Resources/**/*'
   }
-  spec.dependency 'YK_Views/BaseClass'
+  spec.dependency 'YK_Views/CommonViews'
   spec.dependency "MJRefresh"
   spec.source_files = 'YK_TableRefresh/Classes/*.{h,m}'
   
