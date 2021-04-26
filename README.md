@@ -1,5 +1,7 @@
 # YKSpec
 
+[![Platform](https://img.shields.io/badge/platform-iOS-red.svg)](https://developer.apple.com/iphone/index.action) [![Language](http://img.shields.io/badge/language-OC-yellow.svg?style=flat )](https://en.wikipedia.org/wiki/Objective-C) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://mit-license.org) [![CocoaPods Compatible](https://img.shields.io/badge/cocoapod-last-green.svg)](https://gitee.com/Edwrard/YKSpec)
+
 ## 添加本源
 在本地cocopods库中添加本源
 
