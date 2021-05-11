@@ -17,9 +17,9 @@ source 'https://gitee.com/Edwrard/YKSpec.git'
 source 'https://github.com/CocoaPods/Specs.git'
 ```
 
-## 主要仓库
+## 主要仓库(OC)
 
-- 'YYK_BaseViews'   主要对UI的封装，一些自主构建的控件
+- 'YK_Views'   主要对UI的封装，一些自主构建的控件
 - 源地址:https://gitee.com/Edwrard/YK_Views.git
 
 ```
@@ -31,10 +31,10 @@ pod 'YK_Views'
 ```
 pod 'YK_BaseTools'
 ```
-- 'YK_BaseMediator' 主要为组件库，封装一些组件页面提供使用。
+- 'YK_MainMediator' 主要为组件库，封装一些组件页面提供使用。
 - 源地址:https://gitee.com/Edwrard/YK_BaseMediator.git
 ```
-pod 'YK_BaseMediator'
+pod 'YK_MainMediator'
 ```
 - 'YKUserManager' 主要为登录获取用户信息组件。
 - 源地址:https://gitee.com/Edwrard/YKUserManager.git
@@ -60,23 +60,39 @@ pod 'YK_RTC'
 - 源地址:https://gitee.com/Edwrard/YK_IM.git
 ```
 pod 'YK_IM'
+
 ```
 - 'YK_TableRefresh' 主要为refresh的二次开发，简单的使用下拉刷新。
 - 源地址:https://gitee.com/Edwrard/YK_TableRefresh.git
 ```
 pod 'YK_TableRefresh'
 ```
-- 'YK_BigData' 主要为大数据工具类。
-- 源地址:https://gitee.com/Edwrard/YK_BigData.git
+
+- 'YK_PathLog' 主要为大数据埋点埋点。
+- 源地址:https://gitee.com/Edwrard/YK_PathLog.git
 ```
-pod 'YK_BigData'
+pod 'YK_PathLog'
+```
+- 'YK_LogModule' 主要为日志管理组件。
+- 源地址:https://gitee.com/Edwrard/YK_LogModule.git
+```
+pod 'YK_LogModule'
+```
+- 'YK_CommonModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
+- 源地址:https://gitee.com/Edwrard/YK_CommonModule.git
+```
+pod 'YK_CommonModule'
 ```
 
-- 'YK_PathDig' 主要为大数据埋点埋点。
-- 源地址:https://gitee.com/Edwrard/YK_PathDig.git
+## 主要仓库(swift)
+- 'YK_Swift_CommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
+- 源地址:https://gitee.com/Edwrard/YK_Swift_CommandModule.git
 ```
-pod 'YK_PathDig'
+pod 'YK_Swift_CommandModule'
 ```
-
-
+- 'YK_Swift_Networking' 主要为网络请求封装（基于Alamofire）。
+- 源地址:https://gitee.com/Edwrard/YK_Swift_Networking.git
+```
+pod 'YK_Swift_Networking'
+```
 
