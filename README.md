@@ -83,6 +83,11 @@ pod 'YK_LogModule'
 ```
 pod 'YK_CommonModule'
 ```
+- 'YK_SectionViewModel' 主要为负责度较高且能服用的模块设计。
+- 源地址:https://gitee.com/Edwrard/YK_SectionViewModel.git
+```
+pod 'YK_SectionViewModel'
+```
 
 ## 主要仓库(swift)
 - 'YK_Swift_CommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
