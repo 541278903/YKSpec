@@ -100,4 +100,8 @@ pod 'YK_Swift_CommandModule'
 ```
 pod 'YK_Swift_Networking'
 ```
-
+- 'YK_Swift_BaseTools' 主要为工具类的封装（UserDefault,加解密，队列)。
+- 源地址:https://gitee.com/Edwrard/YK_Swift_BaseTools.git
+```
+pod 'YK_Swift_BaseTools'
+```
