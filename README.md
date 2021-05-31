@@ -26,7 +26,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 pod 'YK_Views'
 ```
 
-- 'YK_BaseTools'    主要为工具类的封装，如AFNetWorking，FMDB，RABBITMQ，BASE64等，另外封装录音机，播放器，长链接等实用工具
+- 'YK_BaseTools'    主要为工具类的封装，如RABBITMQ，BASE64等，另外封装录音机，播放器，长链接等实用工具
 - 源地址:https://gitee.com/Edwrard/YK_BaseTools.git
 ```
 pod 'YK_BaseTools'
