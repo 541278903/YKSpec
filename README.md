@@ -90,18 +90,28 @@ pod 'YK_SectionViewModel'
 ```
 
 ## 主要仓库(swift)
-- 'YK_Swift_CommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
-- 源地址:https://gitee.com/Edwrard/YK_Swift_CommandModule.git
+- 'YKSwiftCommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
+- 源地址:https://gitee.com/Edwrard/YKSwiftCommandModule.git
 ```
 pod 'YK_Swift_CommandModule'
 ```
-- 'YK_Swift_Networking' 主要为网络请求封装（基于Alamofire）。
-- 源地址:https://gitee.com/Edwrard/YK_Swift_Networking.git
+- 'YKSwiftNetworking' 主要为网络请求封装（基于Alamofire）。
+- 源地址:https://gitee.com/Edwrard/YKSwiftNetworking.git
 ```
 pod 'YK_Swift_Networking'
 ```
-- 'YK_Swift_BaseTools' 主要为工具类的封装（UserDefault,加解密，队列)。
-- 源地址:https://gitee.com/Edwrard/YK_Swift_BaseTools.git
+- 'YKSwiftBaseTools' 主要为工具类的封装（UserDefault,加解密，队列)。
+- 源地址:https://gitee.com/Edwrard/YKSwiftBaseTools.git
 ```
 pod 'YK_Swift_BaseTools'
+```
+- 'YKSwiftExectionModel' 主要为swift的分类。
+- 源地址:https://gitee.com/Edwrard/YKSwiftExectionModel.git
+```
+pod 'YKSwiftExectionModel'
+```
+- 'YKSwiftAlert' 主要为swift alert提示。
+- 源地址:https://gitee.com/Edwrard/YKSwiftAlert.git
+```
+pod 'YKSwiftAlert'
 ```
