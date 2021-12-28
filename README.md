@@ -93,17 +93,17 @@ pod 'YK_SectionViewModel'
 - 'YKSwiftCommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
 - 源地址:https://gitee.com/Edwrard/YKSwiftCommandModule.git
 ```
-pod 'YK_Swift_CommandModule'
+pod 'YKSwiftCommandModule'
 ```
 - 'YKSwiftNetworking' 主要为网络请求封装（基于Alamofire）。
 - 源地址:https://gitee.com/Edwrard/YKSwiftNetworking.git
 ```
-pod 'YK_Swift_Networking'
+pod 'YKSwiftNetworking'
 ```
 - 'YKSwiftBaseTools' 主要为工具类的封装（UserDefault,加解密，队列)。
 - 源地址:https://gitee.com/Edwrard/YKSwiftBaseTools.git
 ```
-pod 'YK_Swift_BaseTools'
+pod 'YKSwiftBaseTools'
 ```
 - 'YKSwiftExectionModel' 主要为swift的分类。
 - 源地址:https://gitee.com/Edwrard/YKSwiftExectionModel.git
