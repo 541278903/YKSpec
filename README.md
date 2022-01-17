@@ -17,11 +17,13 @@ source 'https://gitee.com/Edwrard/YKSpec.git'
 source 'https://github.com/CocoaPods/Specs.git'
 ```
 
-## 主要仓库(OC)
+### <a href="oc">主要仓库(OC)</a>
+### <a href="swift"> 主要仓库(swift)</a>
+
+## <a name="oc">主要仓库(OC)</a>
 
 - 'YK_Views'   主要对UI的封装，一些自主构建的控件
 - 源地址:https://gitee.com/Edwrard/YK_Views.git
-
 ```
 pod 'YK_Views'
 ```
@@ -60,18 +62,11 @@ pod 'YK_RTC'
 - 源地址:https://gitee.com/Edwrard/YK_IM.git
 ```
 pod 'YK_IM'
-
 ```
 - 'YK_TableRefresh' 主要为refresh的二次开发，简单的使用下拉刷新。
 - 源地址:https://gitee.com/Edwrard/YK_TableRefresh.git
 ```
 pod 'YK_TableRefresh'
-```
-
-- 'YK_PathLog' 主要为大数据埋点埋点。
-- 源地址:https://gitee.com/Edwrard/YK_PathLog.git
-```
-pod 'YK_PathLog'
 ```
 - 'YK_LogModule' 主要为日志管理组件。
 - 源地址:https://gitee.com/Edwrard/YK_LogModule.git
@@ -83,13 +78,29 @@ pod 'YK_LogModule'
 ```
 pod 'YK_CommonModule'
 ```
-- 'YK_SectionViewModel' 主要为负责度较高且能服用的模块设计。
-- 源地址:https://gitee.com/Edwrard/YK_SectionViewModel.git
+- 'YKOCSectionViewModel' 主要为负责度较高且能服用的模块设计。
+- 源地址:https://gitee.com/Edwrard/YKOCSectionViewModel.git
 ```
-pod 'YK_SectionViewModel'
+pod 'YKOCSectionViewModel'
 ```
+- 'YKOCOpenUDID' 主要为负责获取唯一值。
+- 源地址:https://gitee.com/Edwrard/YKOCOpenUDID.git
+```
+pod 'YKOCOpenUDID'
+```
+- 'YKRACExection' 主要为RAC库的拓展。
+- 源地址:https://gitee.com/Edwrard/YKRACExection.git
+```
+pod 'YKRACExection'
+```
+~~- 'YK_SectionViewModel' 主要为负责度较高且能服用的模块设计。~~
+~~- 源地址:https://gitee.com/Edwrard/YK_SectionViewModel.git~~
+~~```~~
+~~pod 'YK_SectionViewModel'~~
+~~```~~
 
-## 主要仓库(swift)
+## <a name="swift">主要仓库(swift)</a>
+
 - 'YKSwiftCommandModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
 - 源地址:https://gitee.com/Edwrard/YKSwiftCommandModule.git
 ```
@@ -114,4 +125,9 @@ pod 'YKSwiftExectionModel'
 - 源地址:https://gitee.com/Edwrard/YKSwiftAlert.git
 ```
 pod 'YKSwiftAlert'
+```
+- 'YKSwiftMediator' 主要为swift组件化基础库。
+- 源地址:https://gitee.com/Edwrard/YKSwiftMediator.git
+```
+pod 'YKSwiftMediator'
 ```
