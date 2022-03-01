@@ -17,9 +17,6 @@ source 'https://gitee.com/Edwrard/YKSpec.git'
 source 'https://github.com/CocoaPods/Specs.git'
 ```
 
-### <a href="oc">主要仓库(OC)</a>
-### <a href="swift"> 主要仓库(swift)</a>
-
 ## <a name="oc">主要仓库(OC)</a>
 
 - 'YK_Views'   主要对UI的封装，一些自主构建的控件
@@ -43,10 +40,10 @@ pod 'YK_MainMediator'
 ```
 pod 'YKUserManager'
 ```
-- 'YK_DebugManager' 主要为模仿哆啦A梦编写的debug工具类。
-- 源地址:https://gitee.com/Edwrard/YK_DebugManager.git
+- 'YKDebugManager' 主要为模仿哆啦A梦编写的debug工具类。
+- 源地址:https://gitee.com/Edwrard/YKDebugManager.git
 ```
-pod 'YK_DebugManager'
+pod 'YKDebugManager'
 ```
 - 'YK_ExectionModel' 主要为拓展类库，提供各种便捷的分类方法，给业务开发快速提供支持。
 - 源地址:https://gitee.com/Edwrard/YK_ExectionModel.git
@@ -98,7 +95,9 @@ pod 'YKRACExection'
 ~~- 源地址:https://gitee.com/Edwrard/YK_SectionViewModel.git~~
 
 ~~pod 'YK_SectionViewModel'~~
-
+~~- 'YK_DebugManager' 主要为模仿哆啦A梦编写的debug工具类。~~
+~~- 源地址:https://gitee.com/Edwrard/YK_DebugManager.git~~
+pod 'YK_DebugManager'~~
 
 ## <a name="swift">主要仓库(swift)</a>
 
