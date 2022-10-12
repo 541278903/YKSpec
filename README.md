@@ -80,10 +80,10 @@ pod 'YK_CommonModule'
 ```
 pod 'YKOCSectionViewModel'
 ```
-- 'YKOCOpenUDID' 主要为负责获取唯一值。
-- 源地址:https://gitee.com/Edwrard/YKOCOpenUDID.git
+- 'YKOpenUDID' 主要为负责获取唯一值。
+- 源地址:https://gitee.com/Edwrard/YKOpenUDID
 ```
-pod 'YKOCOpenUDID'
+pod 'YKOpenUDID'
 ```
 - 'YKRACExection' 主要为RAC库的拓展。
 - 源地址:https://gitee.com/Edwrard/YKRACExection.git
