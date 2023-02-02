@@ -6,14 +6,14 @@
 在本地cocopods库中添加本源
 
 ```
-pod repo add YKSpec https://gitee.com/Edwrard/YKSpec.git
+pod repo add YKSpec https://github.com/541278903/YKSpec.git
 ```
 
 
 在Podfile顶部添加
 
 ```
-source 'https://gitee.com/Edwrard/YKSpec.git'
+source 'https://github.com/541278903/YKSpec.git'
 source 'https://github.com/CocoaPods/Specs.git'
 ```
 
