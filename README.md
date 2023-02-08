@@ -25,15 +25,17 @@ source 'https://github.com/CocoaPods/Specs.git'
 pod 'YK_Views'
 ```
 
-- 'YK_BaseTools'    主要为工具类的封装，如RABBITMQ，BASE64等，另外封装录音机，播放器，长链接等实用工具
-- 源地址:https://gitee.com/Edwrard/YK_BaseTools.git
+- 'YKOCTools'    主要为工具类的封装，如BASE64等，另外封装录音机，播放器，长链接等实用工具
+- 源地址:https://gitee.com/Edwrard/YKOCTools.git
 ```
-pod 'YK_BaseTools'
+pod 'YKOCTools'
+pod 'YKOCTools/Socket'
+pod 'YKOCTools/Cache'
 ```
-- 'YK_MainMediator' 主要为组件库，封装一些组件页面提供使用。
-- 源地址:https://gitee.com/Edwrard/YK_BaseMediator.git
+- 'YKOCMediator' 主要为组件库，封装一些组件页面提供使用。
+- 源地址:https://gitee.com/Edwrard/YKOCMediator.git
 ```
-pod 'YK_MainMediator'
+pod 'YKOCMediator'
 ```
 - 'YKUserManager' 主要为登录获取用户信息组件。
 - 源地址:https://gitee.com/Edwrard/YKUserManager.git
@@ -45,11 +47,12 @@ pod 'YKUserManager'
 ```
 pod 'YKDebugManager'
 ```
-- 'YK_ExectionModel' 主要为拓展类库，提供各种便捷的分类方法，给业务开发快速提供支持。
-- 源地址:https://gitee.com/Edwrard/YK_ExectionModel.git
+- 'YKOCExection' 主要为拓展类库，提供各种便捷的分类方法，给业务开发快速提供支持。
+- 源地址:https://gitee.com/Edwrard/YKOCExection.git
 ```
-pod 'YK_ExectionModel'
+pod 'YKOCExection'
 ```
+
 - 'YK_RTC' 主要为即构拓展库。
 - 源地址:https://gitee.com/Edwrard/YK_RTC.git
 ```
@@ -65,16 +68,7 @@ pod 'YK_IM'
 ```
 pod 'YK_TableRefresh'
 ```
-- 'YK_LogModule' 主要为日志管理组件。
-- 源地址:https://gitee.com/Edwrard/YK_LogModule.git
-```
-pod 'YK_LogModule'
-```
-- 'YK_CommonModule' 主要为常规组件 一些重复琐碎的项目必有内容 如自定义AppDelegate。
-- 源地址:https://gitee.com/Edwrard/YK_CommonModule.git
-```
-pod 'YK_CommonModule'
-```
+
 - 'YKOCSectionViewModel' 主要为负责度较高且能服用的模块设计。
 - 源地址:https://gitee.com/Edwrard/YKOCSectionViewModel.git
 ```
@@ -90,14 +84,11 @@ pod 'YKOpenUDID'
 ```
 pod 'YKRACExection'
 ```
-~~- 'YK_SectionViewModel' 主要为负责度较高且能服用的模块设计。~~
-
-~~- 源地址:https://gitee.com/Edwrard/YK_SectionViewModel.git~~
-
-~~pod 'YK_SectionViewModel'~~
-~~- 'YK_DebugManager' 主要为模仿哆啦A梦编写的debug工具类。~~
-~~- 源地址:https://gitee.com/Edwrard/YK_DebugManager.git~~
-pod 'YK_DebugManager'~~
+- 'YKOpenUDID' iOS统一获取DeviceId。
+- 源地址:https://gitee.com/Edwrard/YKOpenUDID.git
+```
+pod 'YKOpenUDID'
+```
 
 ## <a name="swift">主要仓库(swift)</a>
 
@@ -129,5 +120,15 @@ pod 'YKSwiftAlert'
 - 'YKSwiftMediator' 主要为swift组件化基础库。
 - 源地址:https://gitee.com/Edwrard/YKSwiftMediator.git
 ```
-pod 'YKSwiftMediator'
+pod 'YKSwiftRefresh'
+```
+- 'YKSwiftMediator' 主要为swift组件化基础库。
+- 源地址:https://gitee.com/Edwrard/YKSwiftRefresh.git
+```
+pod 'YKSwiftRefresh'
+```
+- 'YKSwiftRefresh' 主要为swift组件化基础库。
+- 源地址:https://gitee.com/Edwrard/YKSwiftRefresh.git
+```
+pod 'YKSwiftRefresh'
 ```
