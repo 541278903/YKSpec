@@ -37,11 +37,7 @@ pod 'YKOCTools/Cache'
 ```
 pod 'YKOCMediator'
 ```
-- 'YKUserManager' 主要为登录获取用户信息组件。
-- 源地址:https://gitee.com/Edwrard/YKUserManager.git
-```
-pod 'YKUserManager'
-```
+
 - 'YKDebugManager' 主要为模仿哆啦A梦编写的debug工具类。
 - 源地址:https://gitee.com/Edwrard/YKDebugManager.git
 ```
@@ -51,17 +47,6 @@ pod 'YKDebugManager'
 - 源地址:https://gitee.com/Edwrard/YKOCExection.git
 ```
 pod 'YKOCExection'
-```
-
-- 'YK_RTC' 主要为即构拓展库。
-- 源地址:https://gitee.com/Edwrard/YK_RTC.git
-```
-pod 'YK_RTC'
-```
-- 'YK_IM' 主要为IM登录验证模块。
-- 源地址:https://gitee.com/Edwrard/YK_IM.git
-```
-pod 'YK_IM'
 ```
 - 'YK_TableRefresh' 主要为refresh的二次开发，简单的使用下拉刷新。
 - 源地址:https://gitee.com/Edwrard/YK_TableRefresh.git
@@ -83,11 +68,6 @@ pod 'YKOpenUDID'
 - 源地址:https://gitee.com/Edwrard/YKRACExection.git
 ```
 pod 'YKRACExection'
-```
-- 'YKOpenUDID' iOS统一获取DeviceId。
-- 源地址:https://gitee.com/Edwrard/YKOpenUDID.git
-```
-pod 'YKOpenUDID'
 ```
 
 ## <a name="swift">主要仓库(swift)</a>
@@ -112,20 +92,17 @@ pod 'YKSwiftBaseTools'
 ```
 pod 'YKSwiftExectionModel'
 ```
-- 'YKSwiftAlert' 主要为swift alert提示。
-- 源地址:https://gitee.com/Edwrard/YKSwiftAlert.git
-```
-pod 'YKSwiftAlert'
-```
 - 'YKSwiftMediator' 主要为swift组件化基础库。
 - 源地址:https://gitee.com/Edwrard/YKSwiftMediator.git
 ```
-pod 'YKSwiftRefresh'
+pod 'YKSwiftMediator'
 ```
-- 'YKSwiftMediator' 主要为swift组件化基础库。
-- 源地址:https://gitee.com/Edwrard/YKSwiftRefresh.git
+
+
+- 'YKOpenUDID' iOS统一获取DeviceId。
+- 源地址:https://gitee.com/Edwrard/YKOpenUDID.git
 ```
-pod 'YKSwiftRefresh'
+pod 'YKOpenUDID'
 ```
 - 'YKSwiftRefresh' 主要为swift组件化基础库。
 - 源地址:https://gitee.com/Edwrard/YKSwiftRefresh.git
