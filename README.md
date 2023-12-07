@@ -19,11 +19,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 ## <a name="oc">主要仓库(OC)</a>
 
-- 'YK_Views'   主要对UI的封装，一些自主构建的控件
-- 源地址:https://gitee.com/Edwrard/YK_Views.git
-```
-pod 'YK_Views'
-```
 
 - 'YKOCTools'    主要为工具类的封装，如BASE64等，另外封装录音机，播放器，长链接等实用工具
 - 源地址:https://gitee.com/Edwrard/YKOCTools.git
@@ -47,11 +42,6 @@ pod 'YKDebugManager'
 - 源地址:https://gitee.com/Edwrard/YKOCExection.git
 ```
 pod 'YKOCExection'
-```
-- 'YK_TableRefresh' 主要为refresh的二次开发，简单的使用下拉刷新。
-- 源地址:https://gitee.com/Edwrard/YK_TableRefresh.git
-```
-pod 'YK_TableRefresh'
 ```
 
 - 'YKOCSectionViewModel' 主要为负责度较高且能服用的模块设计。
